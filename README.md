@@ -47,3 +47,10 @@ Seguridad-Governanza/
 ├── .nojekyll
 └── README.md
 ```
+
+
+## Navegación interactiva
+
+El menú lateral cambia entre módulos y cada sección presenta métricas, tablas y filtros interactivos: infraestructura, detección de amenazas, identidades, gobernanza, DevSecOps y observabilidad. Cada vista permite filtrar los registros de demostración y exportar su información a JSON.
+
+**Aviso:** las métricas, recursos, eventos y resultados son simulados. No existe conexión a una suscripción de Azure ni deben usarse como evidencia de seguridad real.
